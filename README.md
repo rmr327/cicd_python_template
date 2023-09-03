@@ -1,8 +1,8 @@
-# cicd_python_template
+# CiCd Automation Template for Python Projects - Rakeen Rouf
 
 [![PythonCiCd](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml)
 
-***CiCd Automation Template for Python Projects - Rakeen Rouf***
+***Summary***
 
 This is a Python GitHub automation template designed to help streamline your GitHub workflow and automate common tasks for your future Python projects.
 

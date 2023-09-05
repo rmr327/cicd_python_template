@@ -4,9 +4,7 @@
 		"dockerfile": "Dockerfile",
 		"context": ".."
 	},
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
-  },
+
   	"features": {
 		"ghcr.io/devcontainers/features/nvidia-cuda:1": { 
 		  "installCudnn": true
@@ -70,3 +68,5 @@
 	//"postCreateCommand": "oryx build -p virtualenv_name=.venv --log-file /tmp/oryx-build.log --manifest-dir /tmp || echo 'Could not auto-build. Skipping.'"
 	 "postCreateCommand": "bash setup.sh"
   }
+  }
+}

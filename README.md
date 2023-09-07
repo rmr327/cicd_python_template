@@ -1,27 +1,39 @@
-# CiCd Automation Template for Python Projects - Rakeen Rouf
+# CiCd Automation Template for Python Projects
+### by Rakeen Rouf
 
 [![PythonCiCd](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml)
 
-***Summary***
+---
 
-This is a Python GitHub automation template designed to help streamline your GitHub workflow and automate common tasks for your future Python projects. Once you start your own project based on this template, you can simply create a codespace container and start coding. This template will therefore allow seamless sharing and trasferring of code between teammates and evnironments (dev, prod).
+**Summary**
 
+This is a Python GitHub automation template designed to help streamline your GitHub workflow and automate common tasks for your future Python projects. It allows for easy setup of a codespace container, facilitating smooth code sharing and transfer between teammates and environments (dev, prod).
+
+---
+
+**What is Code Spaces?**
+
+GitHub Code Spaces provides cloud-hosted development environments for your repositories. It allows you to develop entirely in the cloud, eliminating the need for local setup and configuration.
 
 **Getting Started**
 
 To get started with this template, follow these steps:
 
-1) Create a New Repository: 
-Click the "Use this template" button or manually create a new repository using this template as a starting point.
+1. **Create a New Repository:** 
+   - Click the "Use this template" button or manually create a new repository using this template as a starting point.
 
-2) Set Up CI/CD: 
-Define your CI/CD workflows by configuring the .github/workflows/ directory. Modify the workflows to suit your project's specific needs. 
+2. **Set Up CI/CD:** 
+   - Define your CI/CD workflows by configuring the `.github/workflows/` directory. Modify the workflows to suit your project's specific needs. 
 
-3) Customize Automation: 
-Customize the automation scripts, and rules in the .github/workflows/. Configure issue management, release automation, and code quality checks as per your project requirements.
+3. **Start Code Space (Optional):**
+   - If you want to develop entirely in the cloud, click the "Code" button on the GitHub repository page and select "Open with Code Spaces". This will launch a cloud-based development environment where you can start coding without any local setup.
 
-4) Documentation: 
-Update the project's documentation to reflect your project's specific setup, workflows, and guidelines.
+4. **Customize Automation:** 
+   - Customize the automation scripts and rules in the `.github/workflows/` directory. Configure issue management, release automation, and code quality checks according to your project requirements.
 
-5) Requirement.txt:
-Update the requirements.txt file to make sure all necessary python packages have been included.
+5. **Documentation:** 
+   - Update the project's documentation to reflect your project's specific setup, workflows, and guidelines.
+
+6. **Requirement.txt:**
+   - Update the `requirements.txt` file to ensure all necessary Python packages have been included.
+

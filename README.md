@@ -4,7 +4,7 @@
 
 ***Summary***
 
-This is a Python GitHub automation template designed to help streamline your GitHub workflow and automate common tasks for your future Python projects.
+This is a Python GitHub automation template designed to help streamline your GitHub workflow and automate common tasks for your future Python projects. Once you start your own project based on this template, you can simply create a codespace container and start coding. This template will therefore allow seamless sharing and trasferring of code between teammates and evnironments (dev, prod).
 
 
 **Getting Started**
